@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="scn" value="java.util.Scanner scanner = new java.util.Scanner(java.lang.System.in);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

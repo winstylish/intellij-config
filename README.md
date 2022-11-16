@@ -1,0 +1,2 @@
+# intellij-config
+IDE configuration

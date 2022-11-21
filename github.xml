@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="winstylish" id="fe6b7107-ce0e-4b52-bc83-f9f3961f3f55">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

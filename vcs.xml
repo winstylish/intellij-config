@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/winstylish/java-exercises.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/winstylish/java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/DAM/Programming/java" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/DAM/Programming" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
